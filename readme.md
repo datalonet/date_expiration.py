@@ -17,14 +17,12 @@ To run dns_lookup.py, you have to install some libraries from python.
 
 ## Contributors
 
-Samy Hamidou samy@datalo.net
+Samy Hamidou samy@datalo.net you can join me to improve news script in python.
 
 ## License
-<snippet>
-	<content><![CDATA[
-This work ${1:by ${2:author}} is licensed under a [Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0).
-]]></content>
-	<tabTrigger>rm-ccbync3</tabTrigger>
-	<scope>text.html.markdown</scope>
-</snippet>
+[Creative Commons Attribution-NonCommercial 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0).
+
+
+
+
 
